@@ -1,32 +1,8 @@
 body {
-<<<<<<< HEAD
-  margin: 0;
-  padding: 0;
-  color: #484848;
-  font-size: 14px;
-  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-header,
-footer {
-  width: 100%;
-}
-
-footer {
-  position: absolute;
-  bottom: 0;
-}
-
-footer span {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-=======
-    margin: 0;
-    padding: 0;
-    color: #484848;
-    font-size: 14px;
-    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
->>>>>>> 0965a779b358ce19db643f167655c6d1f49bbe25
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	color: #484848;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
 }

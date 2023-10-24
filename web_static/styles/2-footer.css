@@ -1,26 +1,9 @@
-footer {
-<<<<<<< HEAD
-  background-color: #00ff00;
-  color: #ffffff;
-  height: 60px;
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-footer span {
-  text-align: center;
-=======
-    background-color: #00FF00;
-    height: 60px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    bottom: 0;
->>>>>>> 0965a779b358ce19db643f167655c6d1f49bbe25
+footer{
+    Background-color:#00FF00;
+    height:60px;
+    width:100%;
+    position: absolute;
+    bottom:0;
+    text-align:center;
+    line-height:60px
 }
