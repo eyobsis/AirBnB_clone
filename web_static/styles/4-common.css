@@ -1,0 +1,29 @@
+body {
+<<<<<<< HEAD
+  margin: 0;
+  padding: 0;
+  color: #484848;
+  font-size: 14px;
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 30px auto;
+  margin-top: 30px;
+}
+
+*{
+
+  margin: 0;
+  padding: 0;
+=======
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+>>>>>>> 0965a779b358ce19db643f167655c6d1f49bbe25
+}
